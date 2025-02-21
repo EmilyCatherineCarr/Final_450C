@@ -1,7 +1,7 @@
 # Final_450C
 This is my actual final project for BISC 450C python 2
 
-##Sequencing Objects (1-4)
+# Sequencing Objects (1-4)
 In this analysis, we looked at sequencing objects.
 
 ```python
